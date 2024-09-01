@@ -8,4 +8,5 @@
     Not(in=a,in=b,out=Nota);
     Not(in=b,in=a,out=Notb);
     Nand(a=nota,b=notb,out=out)
+    
 }
